@@ -66,7 +66,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/vishnu-lucky/vishnu-lucky/output/snake.svg" alt="Snake animation" />
 
 ###
 
